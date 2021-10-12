@@ -1,0 +1,62 @@
+¿Qué es una variable? 
+ Es un espacio en memoria donde se guardan y recuperan los
+ datos que utiliza un programa.
+
+
+Tenemos tipos de variables mas comunes
+y estas son:
+variables que almacenan numeros
+(1. int almacenan enteros
+Estos pueden ser tanto positivos como negativos
+, 
+2. float almacenan decimal o reales) 
+3. variables que almacenan texto(String)
+4. los tipos primitivos booleanos en python (bool) son tipos de datos binarios,
+False,True
+
+
+
+
+
+
+
+
+
+
+
+
+
+-Phyton puede diferenciar mayusculas de minusculas.
+-Phyton identifica el tipo de dato que se quiere almacenar 
+
+
+
+
+
+
+
+
+Para comentar en Phyton tenemos (#)
+
+
+
+
+
+
+---Concatenación---
+Una operacion que consiste en unir una cadena de texto de dos o mas 
+para formar una cadena de mayor tamaño 
+Para lo cuál es necesario usar el operador (+)
+
+
+
+
+
+
+
+
+
+
+---Casteo--
+Hacer un cast significa convertir un tipo de dato a otro. En Python es posible convertir a string con str() o a integer o entero con int().
+
